@@ -1,21 +1,21 @@
 print('This is test')
-print("Version 5")
+print("Version 6")
 
 
 def bar():
-    print("Test 3")
+    print("Test 6")
 
 
 def foo(name):
     print(f'My name is {name}')
 
 
-foo('Joe')
+foo('Aldin')
 bar()
 
 
 def version():
-    print("version 5")
+    print("version 6")
 
 
 version()
