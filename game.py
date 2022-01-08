@@ -1,5 +1,5 @@
 print('This is test')
-print("Version 4")
+print("Version 5")
 
 
 def bar():
@@ -11,10 +11,11 @@ def foo(name):
 
 
 foo('Joe')
+bar()
 
 
 def version():
-    print("version 4")
+    print("version 5")
 
 
 version()
